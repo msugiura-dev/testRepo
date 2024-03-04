@@ -1,0 +1,5 @@
+latest_version = 2.5.17.0
+emergency_message_scope_version = 2.5.17.0
+emergency_massage_us = Your version has serious security issues, so please upgrade as soon as possible.
+emergency_massage_jp = ご利用のバージョンには重大なセキュリティ問題が存在しているため、早急にアップグレードしてください。
+
