@@ -1,4 +1,1 @@
 latest_version = 2.5.17.0
-emergency_message_scope_version = 2.5.10.0
-emergency_massage_us = Emergency Massage US
-emergency_massage_jp = Emergency Massage JP
